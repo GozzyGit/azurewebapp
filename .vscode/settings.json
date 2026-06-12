@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/71e85381-5707-48bd-9e75-199a87e9705e/resourceGroups/dev-lgproject876/providers/Microsoft.Web/sites/dev-clickopswebapp876",
+    "appService.deploySubpath": "."
+}
